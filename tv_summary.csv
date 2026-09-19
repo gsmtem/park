@@ -1,0 +1,8 @@
+Playlist Name,Total Channel,Enabled Channel,Valid Channel,Mapped Group,Mapped TVG,Mapped Logo,Missing Group,Missing TVG,Missing Logo,Metadata Count
+00_Live_Streams.m3u,138,121,47,102,72,0,17,66,0,1
+11_FAST_IPTV_Z.m3u,139,108,103,0,49,0,0,90,0,6
+12_Sydul104_My.m3u,155,126,64,0,41,4,2,111,18,38
+13_SM_Combined.m3u,384,313,243,1,125,0,4,187,10,64
+14_IPTV_Org_BD.m3u,40,35,24,0,0,0,0,0,0,0
+15_IPTV_Org_IN.m3u,810,290,235,0,0,0,0,0,7,8
+[TOTAL SUMMARY],1666,993,716,103,287,4,23,454,35,117
