@@ -1,0 +1,93 @@
+[
+  {
+    "playlist_name": "00_Live_Streams.m3u",
+    "total_channel": 138,
+    "enabled_channel": 121,
+    "valid_channel": 48,
+    "mapped_group": 102,
+    "mapped_tvg": 76,
+    "mapped_logo": 0,
+    "missing_group": 17,
+    "missing_tvg": 62,
+    "missing_logo": 0,
+    "metadata_count": 1
+  },
+  {
+    "playlist_name": "11_FAST_IPTV_Z.m3u",
+    "total_channel": 142,
+    "enabled_channel": 111,
+    "valid_channel": 106,
+    "mapped_group": 0,
+    "mapped_tvg": 49,
+    "mapped_logo": 0,
+    "missing_group": 0,
+    "missing_tvg": 93,
+    "missing_logo": 0,
+    "metadata_count": 9
+  },
+  {
+    "playlist_name": "12_Sydul104_My.m3u",
+    "total_channel": 155,
+    "enabled_channel": 126,
+    "valid_channel": 69,
+    "mapped_group": 0,
+    "mapped_tvg": 42,
+    "mapped_logo": 4,
+    "missing_group": 2,
+    "missing_tvg": 110,
+    "missing_logo": 18,
+    "metadata_count": 38
+  },
+  {
+    "playlist_name": "13_SM_Combined.m3u",
+    "total_channel": 384,
+    "enabled_channel": 313,
+    "valid_channel": 183,
+    "mapped_group": 1,
+    "mapped_tvg": 127,
+    "mapped_logo": 0,
+    "missing_group": 4,
+    "missing_tvg": 185,
+    "missing_logo": 10,
+    "metadata_count": 64
+  },
+  {
+    "playlist_name": "14_IPTV_Org_BD.m3u",
+    "total_channel": 41,
+    "enabled_channel": 36,
+    "valid_channel": 29,
+    "mapped_group": 0,
+    "mapped_tvg": 0,
+    "mapped_logo": 0,
+    "missing_group": 0,
+    "missing_tvg": 0,
+    "missing_logo": 0,
+    "metadata_count": 0
+  },
+  {
+    "playlist_name": "15_IPTV_Org_IN.m3u",
+    "total_channel": 740,
+    "enabled_channel": 288,
+    "valid_channel": 241,
+    "mapped_group": 0,
+    "mapped_tvg": 0,
+    "mapped_logo": 0,
+    "missing_group": 0,
+    "missing_tvg": 0,
+    "missing_logo": 7,
+    "metadata_count": 5
+  },
+  {
+    "playlist_name": "[TOTAL SUMMARY]",
+    "total_channel": 1600,
+    "enabled_channel": 995,
+    "valid_channel": 676,
+    "mapped_group": 103,
+    "mapped_tvg": 294,
+    "mapped_logo": 4,
+    "missing_group": 23,
+    "missing_tvg": 450,
+    "missing_logo": 35,
+    "metadata_count": 117
+  }
+]
